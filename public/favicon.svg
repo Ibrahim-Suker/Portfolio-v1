@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <rect width="32" height="32" rx="4" fill="#0a0a0a"/>
+  <text x="4" y="24" font-size="18" font-weight="300" fill="#fafaf7" font-family="'Syne', 'Arial', sans-serif" letter-spacing="-1">I</text>
+  <text x="16" y="24" font-size="18" font-weight="300" fill="#fafaf7" font-family="'Syne', 'Arial', sans-serif" letter-spacing="-1">A</text>
+  <line x1="16" y1="26" x2="19" y2="7" stroke="#B91C1C" stroke-width="1.8" stroke-linecap="round"/>
+</svg>
